@@ -1,7 +1,7 @@
 # bdd
 A Cucumber-based integration test project, with Selenium page objects run by Spring Boot...
 
-Uses:
+Tech stack:
  - Spring Boot 1.5.1
  - Selenium Server 3.0.1
  - Cucumber 1.2.5
